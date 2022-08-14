@@ -1,7 +1,7 @@
 import React, {useState} from "react";
-{/*import Employee from "./Employee"*/}
-import Message from "./Message"
 import "./App.css"
+import Message from "./Message"
+
 
 function App() {
     let [count, setCount] = useState(0)
